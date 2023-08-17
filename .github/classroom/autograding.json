@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Test1",
+      "setup": "",
+      "run": "javac Hypot.java && java Hypot ",
+      "input": "",
+      "output": "Given sides of lengths 3.0 and 4.0 the hypotenuse is 5.0",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
