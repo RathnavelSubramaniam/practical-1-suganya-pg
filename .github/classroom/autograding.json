@@ -3,9 +3,9 @@
     {
       "name": "Test1",
       "setup": "",
-      "run": "javac Hypot.java && java Hypot ",
+      "run": "javac area.java && java area",
       "input": "",
-      "output": "Given sides of lengths 3.0 and 4.0 the hypotenuse is 5.0",
+      "output": "The area of circle with radius 10.0 is : 314.159",
       "comparison": "exact",
       "timeout": 10,
       "points": 10
