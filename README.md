@@ -1,2 +1,2 @@
 # Data-Science-Practical1
-# 1.	Find the length of the hypotenuse of a right triangle given the lengths of its two opposing sides
+# 1.	Find the area of Circle using the formula
